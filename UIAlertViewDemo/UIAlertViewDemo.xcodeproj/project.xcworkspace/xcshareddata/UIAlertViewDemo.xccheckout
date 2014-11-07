@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CE38E16-E99C-48C6-AAB7-517B865AAD5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIAlertViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF4F6EAAC83FEA27BD1C633D57EDA9ACB9A92E6A</key>
+		<string>github.com:RainbowMango/UIAlertViewDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIAlertViewDemo/UIAlertViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF4F6EAAC83FEA27BD1C633D57EDA9ACB9A92E6A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:RainbowMango/UIAlertViewDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF4F6EAAC83FEA27BD1C633D57EDA9ACB9A92E6A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF4F6EAAC83FEA27BD1C633D57EDA9ACB9A92E6A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIAlertViewDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
